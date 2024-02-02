@@ -15,10 +15,10 @@ Welcome to the repository! This collection features handcrafted implementations 
 
 ## Implementations <a name="implementations"></a>
 
-* [Linear Regression](https://github.com/yugansh77/myfolio/blob/78a6b217930263442a983518c41d6d1121ec69ad/01.%20ML%20Algos%20coded%20from%20Scratch/01.%20Linear%20Regression%20from%20Scratch.ipynb)
-* [Logistic Regression](https://github.com/yugansh77/myfolio/blob/78a6b217930263442a983518c41d6d1121ec69ad/01.%20ML%20Algos%20coded%20from%20Scratch/02.%20Logistic%20Regresion%20from%20Scratch.ipynb)
-* [K-Nearest Neighbour](https://github.com/yugansh77/myfolio/blob/78a6b217930263442a983518c41d6d1121ec69ad/01.%20ML%20Algos%20coded%20from%20Scratch/03.%20KNN%20from%20Scratch.ipynb)
-* [K-Means](https://github.com/yugansh77/myfolio/blob/78a6b217930263442a983518c41d6d1121ec69ad/01.%20ML%20Algos%20coded%20from%20Scratch/04.%20KMeans%20from%20Scratch.ipynb)
+* [Linear Regression](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Linear%20Regression.ipynb)
+* [Logistic Regression](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Logistic%20Regresion.ipynb)
+* [K-Nearest Neighbour](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KNN.ipynb)
+* [K-Means](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KMeans.ipynb)
 
 ## Demos <a name="demos"></a>
 
