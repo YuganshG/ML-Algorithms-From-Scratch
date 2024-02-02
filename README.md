@@ -1,4 +1,4 @@
-# Coding Machine Learning Algorithms from the GroundUp
+# Coding Machine Learning Algorithms from the Ground Up
 
 ## About <a name="about"></a>
 
