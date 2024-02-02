@@ -23,6 +23,26 @@ Welcome to the repository! This collection features handcrafted implementations 
 
 ## Snapshots <a name="snapshots"></a>
 
+### Linear Regression:
+
+<p float="left" align="middle">
+<img width="286" align="top" align="centre" alt="linear-regression-cost-plot" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/2be2f9b0-acbd-4031-8c1a-346ea0e51baf">
+<img width="291" align="top" align="centre" alt="linear-regression-line" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/6d0cce98-fa86-45c7-a8b6-113287c61d04">
+</p>
+
+### Logistic Regression:
+
+<p float="left" align="middle">
+<img width="377" align="top" align="centre" alt="logistic-regression-cost-plot" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/1b57e58d-b091-45c0-a061-43a07d13ca1f">
+<img width="350" align="top" align="centre" alt="logistic-regression-decision-boundary" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/62b08a92-b2db-4335-b84d-e51375f0de4c">
+</p>
+
+### K-Nearest Neighbour:
+
+<p float="left" align="middle">
+<img width="310" align="top" align="centre" alt="knn-choosing-k" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/46c2cd5a-dce9-45d1-92f4-0739f8cb1033">
+</p>
+
 ### K-Means:
 
 <p float="left" align="middle">
