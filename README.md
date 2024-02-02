@@ -23,8 +23,12 @@ Welcome to the repository! This collection features handcrafted implementations 
 
 ## Snapshots <a name="snapshots"></a>
 
-K-Means:
-![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/snapshots/kmeans-elbow-method.png))
+### K-Means:
+
+<p float="left" align="middle">
+  <img width="298" align="top" align="centre" alt="kmeans-elbow-method" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/1d6609c6-6040-4d99-89f3-387aa6154ad6"> 
+  <img width="298" align="top" align="centre" alt="kmeans-progress-plot" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/03c3e0a5-1f64-42cf-9096-d075031b08e4">
+</p>
 
 
 ## License <a name="license"></a>
