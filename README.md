@@ -1,4 +1,4 @@
-# Machine Learning Algorithms implemented from Scratch
+# Coding Machine Learning Algorithms from the Ground Up
 
 ## About
 
