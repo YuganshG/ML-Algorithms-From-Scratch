@@ -1,5 +1,8 @@
-# Data Science Portfolio
+# Machine Learning Algorithms implemented from Scratch
 
+## About
+
+Welcome to the repository! This collection features handcrafted implementations of fundamental machine learning algorithms written entirely from scratch in Python. Dive into the core of machine learning as we build these algorithms step by step, providing clear insights into their inner workings. Whether you're a beginner looking to understand the fundamentals or an experienced practitioner seeking a deeper understanding, this repository is a resource for exploring the foundations of machine learning through code.
 
 ## Contents
 
