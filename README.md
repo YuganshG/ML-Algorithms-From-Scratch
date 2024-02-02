@@ -1,4 +1,4 @@
-# Coding Machine Learning Algorithms from the Ground Up
+## Coding Machine Learning Algorithms from the Ground Up
 
 ## About <a name="about"></a>
 
@@ -19,6 +19,7 @@ Welcome to the repository! This collection features handcrafted implementations 
 * [Logistic Regression](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Logistic%20Regresion.ipynb)
 * [K-Nearest Neighbour](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KNN.ipynb)
 * [K-Means](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KMeans.ipynb)
+* stay tuned for more! 🚀
 
 ## Demos <a name="demos"></a>
 
