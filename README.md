@@ -9,7 +9,7 @@ Welcome to the repository! This collection features handcrafted implementations 
 1. [About](#about)
 2. [Table of Contents](#table-of-contents)
 3. [Implementations](#implementations)
-4. [Demos](#demos)
+4. [Snapshots](#snapshots)
 5. [License](#license)
 6. [Support & Contact](#support-contact)
 
@@ -21,7 +21,11 @@ Welcome to the repository! This collection features handcrafted implementations 
 * [K-Means](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KMeans.ipynb)
 * stay tuned for more! 🚀
 
-## Demos <a name="demos"></a>
+## Snapshots <a name="snapshots"></a>
+
+K-Means:
+![alt text]([https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/snapshots/kmeans-elbow-method.png))
+
 
 ## License <a name="license"></a>
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/LICENSE) file for details.
