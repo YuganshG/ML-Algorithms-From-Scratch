@@ -35,8 +35,8 @@ Welcome to the repository! This collection features handcrafted implementations 
 ### Logistic Regression:
 
 <p float="left" align="middle">
-<img width="377" align="top" align="centre" alt="logistic-regression-cost-plot" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/1b57e58d-b091-45c0-a061-43a07d13ca1f">
-<img width="350" align="top" align="centre" alt="logistic-regression-decision-boundary" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/62b08a92-b2db-4335-b84d-e51375f0de4c">
+<img width="277" align="top" align="centre" alt="logistic-regression-cost-plot" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/1b57e58d-b091-45c0-a061-43a07d13ca1f">
+<img width="250" align="top" align="centre" alt="logistic-regression-decision-boundary" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/62b08a92-b2db-4335-b84d-e51375f0de4c">
 </p>
 
 ### K-Nearest Neighbour:
