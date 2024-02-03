@@ -1,4 +1,4 @@
-<img align="left" width="80" height="80" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/58e55aea-4bf1-4e0a-b16d-a1826d040dd3" alt="Coding Machine Learning Algorithms from the Ground Up">
+<img align="right" width="80" height="80" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/58e55aea-4bf1-4e0a-b16d-a1826d040dd3">
 
 # Coding Machine Learning Algorithms from the Ground Up
 
