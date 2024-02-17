@@ -61,6 +61,11 @@ Welcome to the repository! This collection features handcrafted implementations 
 </p>
 
 <p float="left" align="middle">
+Using demo code from <a href="https://scikit-learn.org/stable/auto_examples/ensemble/plot_adaboost_twoclass.html#sphx-glr-auto-examples-ensemble-plot-adaboost-twoclass-py">Sklearn AdaBoost</a>, <br>
+  decision boundaries  across different iterations during training are plotted as follows:
+</p>
+
+<p float="left" align="middle">
 <img width="629"  align="centre" alt="Adaboost-T=200" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/66d4242b-0e18-4edd-8f44-546c70109a09">
 
 <img width="627" align="centre"  alt="Adaboost-T=1000" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/673a406b-be0a-4352-a1fa-b424e67a844e">
