@@ -53,7 +53,7 @@ Welcome to the repository! This collection features handcrafted implementations 
   <img width="298" align="top" align="centre" alt="kmeans-progress-plot" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/03c3e0a5-1f64-42cf-9096-d075031b08e4">
 </p>
 
-### AdaBoost:
+### AdaBoost - Binary Classification:
 
 <p float="left" align="middle">
   <img width="298" align="centre" alt="Adaboost-errorplot" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/b12a40e7-57a5-442d-9816-e7454259dd9e">
@@ -73,6 +73,12 @@ Using demo code from <a href="https://scikit-learn.org/stable/auto_examples/ense
 <img width="629" align="centre"  alt="Adaboost-T=1600" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/94eb7807-66ff-4784-a36a-aa4f50355595">
 
 <img width="635" align="centre"  alt="Adaboost-T=2000" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/4a3fe055-725c-448c-83dd-2bfd1a3871e3">
+</p>
+
+<p float="left" align="middle">
+As evidenced by the plots above, it is apparent that AdaBoost has a tendency to fit the training data nearly perfectly. <br>
+Thus, it's crucial to train AdaBoost only until it demonstrates effective generalization on validation data.<br>
+In other words, T (number of weak classifiers) is a hyperparameter critical for controlling model complexity and mitigating overfitting.
 </p>
 
 ## License <a name="license"></a>
