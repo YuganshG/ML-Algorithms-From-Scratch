@@ -22,6 +22,7 @@ Welcome to the repository! This collection features handcrafted implementations 
 * [K-Nearest Neighbour](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KNN.ipynb)
 * [K-Means](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KMeans.ipynb)
 * [AdaBoost](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/AdaBoost.ipynb)
+* [Decision Trees - ID3](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20ID3.ipynb)
 * stay tuned for more! 🚀
 
 ## Snapshots <a name="snapshots"></a>
@@ -80,6 +81,14 @@ As evidenced by the plots above, it is apparent that AdaBoost has a tendency to 
 Thus, it's crucial to train AdaBoost only until it demonstrates effective generalization on validation data.<br>
 In other words, T (number of weak classifiers) is a hyperparameter critical for controlling model complexity and mitigating overfitting.
 </p>
+
+### Decision Trees - ID3:
+
+<p float="left" align="middle">
+Graphical representation of the trained ID3 decision tree, by converting tree structure to dot format, is as follows: <br><br>
+<img width="629"  align="centre" alt="id3_tree" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/0c38f097-ceab-4596-a46a-f5739e6b60d5">
+</p>
+
 
 ## License <a name="license"></a>
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/LICENSE) file for details.
