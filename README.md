@@ -23,7 +23,7 @@ Welcome to the repository! This collection features handcrafted implementations 
 * [K-Means](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KMeans.ipynb)
 * [AdaBoost](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/AdaBoost.ipynb)
 * [Decision Trees - ID3](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20ID3.ipynb)
-* [Decision Trees - CART:Classification - Categorical Threshold Split](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Classification%20-%20Cat_thresh_split.ipynb)
+* [Decision Trees - CART:Classification - Implementation 1](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Classification%20-%20Cat_thresh_split.ipynb)
 * stay tuned for more! 🚀
 
 ## Snapshots <a name="snapshots"></a>
@@ -90,7 +90,7 @@ Graphical representation of the trained ID3 decision tree, by converting tree st
 <img width="629"  align="centre" alt="id3_tree" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/0c38f097-ceab-4596-a46a-f5739e6b60d5">
 </p>
 
-### Decision Trees - CART:Classification - Categorical Threshold Split:
+### Decision Trees - CART:Classification - Implementation 1:
 
 <p float="left" align="middle">
 <img width="629"  align="centre" alt="cart_thresh" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/cd6963d5-027d-4def-b5cf-c2f82e38581f"><br>
