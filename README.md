@@ -24,6 +24,7 @@ Welcome to the repository! This collection features handcrafted implementations 
 * [AdaBoost](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/AdaBoost.ipynb)
 * [Decision Trees - ID3](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20ID3.ipynb)
 * [Decision Trees - CART:Classification - Implementation 1](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Classification%20-%20Cat_thresh_split.ipynb)
+* [Decision Trees - CART:Classification - Implementation 2](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Classification%20-%20Cat_comb_split.ipynb)
 * stay tuned for more! 🚀
 
 ## Snapshots <a name="snapshots"></a>
@@ -97,6 +98,12 @@ Graphical representation of the trained ID3 decision tree, by converting tree st
 The comparison sign with categorical variables, split based on thresholds, indicates alphabetical precedence,<br> where values appearing earlier in the alphabet are considered 'less than' those appearing later.
 </p>
 
+### Decision Trees - CART:Classification - Implementation 2:
+
+<p float="left" align="middle">
+<img width="629"  align="centre" alt="cart_thresh" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/snapshots/cart_classification_comb_split.png"><br>
+In this implementation, binary split on categorical values is achieved by considering <br> all possible ways to divide the categories in the column into two groups.
+</p>
 
 
 ## License <a name="license"></a>
