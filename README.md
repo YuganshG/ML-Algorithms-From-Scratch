@@ -23,6 +23,7 @@ Welcome to the repository! This collection features handcrafted implementations 
 * [K-Means](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/KMeans.ipynb)
 * [AdaBoost](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/AdaBoost.ipynb)
 * [Decision Trees - ID3](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20ID3.ipynb)
+* [Decision Trees - CART:Classification - Categorical Threshold Split](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Classification%20-%20Cat_thresh_split.ipynb)
 * stay tuned for more! 🚀
 
 ## Snapshots <a name="snapshots"></a>
@@ -88,6 +89,14 @@ In other words, T (number of weak classifiers) is a hyperparameter critical for 
 Graphical representation of the trained ID3 decision tree, by converting tree structure to dot format, is as follows: <br><br>
 <img width="629"  align="centre" alt="id3_tree" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/0c38f097-ceab-4596-a46a-f5739e6b60d5">
 </p>
+
+### Decision Trees - CART:Classification - Categorical Threshold Split:
+
+<p float="left" align="middle">
+<img width="629"  align="centre" alt="id3_tree" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/0db63da8-d632-427f-833d-938e099056b5"><br>
+The comparison sign with categorical variables, split based on thresholds, indicates alphabetical precedence,<br> where values appearing earlier in the alphabet are considered 'less than' those appearing later.
+</p>
+
 
 
 ## License <a name="license"></a>
