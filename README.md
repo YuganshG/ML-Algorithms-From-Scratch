@@ -93,7 +93,7 @@ Graphical representation of the trained ID3 decision tree, by converting tree st
 ### Decision Trees - CART:Classification - Categorical Threshold Split:
 
 <p float="left" align="middle">
-<img width="629"  align="centre" alt="id3_tree" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/0db63da8-d632-427f-833d-938e099056b5"><br>
+<img width="629"  align="centre" alt="cart_thresh" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/cd6963d5-027d-4def-b5cf-c2f82e38581f"><br>
 The comparison sign with categorical variables, split based on thresholds, indicates alphabetical precedence,<br> where values appearing earlier in the alphabet are considered 'less than' those appearing later.
 </p>
 
