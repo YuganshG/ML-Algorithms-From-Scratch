@@ -110,10 +110,8 @@ In this implementation, binary split on categorical values is achieved by consid
 
 <p float="left" align="middle">
 Incorporated some of pruning methods including max_depth, min_impurity_decrease, and min_leaves in the implementation.<br>
-For illustrative purposes, max_depth was constrained to 2 in this example:<br>
+For illustrative purposes, max_depth was constrained to 3 in this example:<br>
 <img align="centre" alt="cart_regression" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/assets/34838617/aea34893-8646-4980-ab16-0719923c6879">
-
-For illustration purposes max_depth was kept to 2 for this example
 </p>
 
 ## License <a name="license"></a>
