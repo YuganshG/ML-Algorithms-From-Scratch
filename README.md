@@ -25,6 +25,7 @@ Welcome to the repository! This collection features handcrafted implementations 
 * [Decision Trees - ID3](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20ID3.ipynb)
 * [Decision Trees - CART:Classification - Implementation 1](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Classification%20-%20Cat_thresh_split.ipynb)
 * [Decision Trees - CART:Classification - Implementation 2](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Classification%20-%20Cat_comb_split.ipynb)
+* [Decision Trees - CART:Regression](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/Implementations/Decision%20trees%20-%20CART_Regression.ipynb)
 * stay tuned for more! 🚀
 
 ## Snapshots <a name="snapshots"></a>
@@ -105,6 +106,13 @@ The comparison sign with categorical variables, split based on thresholds, indic
 In this implementation, binary split on categorical values is achieved by considering <br> all possible ways to divide the categories in the column into two groups.
 </p>
 
+### Decision Trees - CART:Regression :
+
+<p float="left" align="middle">
+  
+<img width="1200" height="200" align="centre" alt="cart_regression" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/snapshots/cart_tree_regression.png">
+
+</p>
 
 ## License <a name="license"></a>
 This project is licensed under the GNU General Public License v3.0 - see the [LICENSE](https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/LICENSE) file for details.
