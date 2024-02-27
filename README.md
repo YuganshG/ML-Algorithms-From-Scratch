@@ -110,7 +110,7 @@ In this implementation, binary split on categorical values is achieved by consid
 
 <p float="left" align="middle">
   
-<img width="1200" height="200" align="centre" alt="cart_regression" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/snapshots/cart_tree_regression.png">
+<img width="2200" height="200" align="centre" alt="cart_regression" src="https://github.com/YuganshG/ML-Algorithms-From-Scratch/blob/main/snapshots/cart_tree_regression.png">
 
 </p>
 
